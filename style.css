@@ -1,0 +1,49 @@
+#content {
+    display: flex;
+    padding-top: 230px;
+}
+
+header {
+    width: 100%;
+    min-height: 200px;
+    background-color: aqua;
+    position: fixed;
+}
+
+
+
+#inhoud01 {
+    background-color: aquamarine;
+    width: 20%;
+    min-height: 150px;
+    
+}
+
+#inhoud02 {
+    background-color: blueviolet;
+    width: 70%;
+    
+}
+
+.vakjes {
+    width: 250px;
+    min-height: 250px;
+    background-color: brown;
+    display: inline-block;
+}
+
+#inhoud03 {
+    background-color: rgb(226, 189, 43);
+    width: 10%;
+    min-height: 300px;
+    
+}
+
+
+
+footer {
+    width: 100%;
+    min-height: 150px;
+    background-color: aqua;
+
+}
